@@ -1,0 +1,14 @@
+What is Power BI? 
+Power BI is a powerful business analytics tool developed by Microsoft that helps users connect to data, transform it, and create interactive visual reports and dashboards. It enables individuals and organizations to make data-driven decisions by turning raw data into meaningful insights.
+
+🧩 Power BI Components: Differences Between Desktop, Service, and Mobile
+Component:-
+	
+Power BI Desktop:	
+A Windows application used for creating data models and visual reports.	Best for designing and building reports used by report developers.
+
+Power BI Service:	
+A cloud-based platform to publish, share, and collaborate on Power BI reports.	Best for sharing, collaboration, and dashboards online.
+
+Power BI Mobile:	
+A mobile app for viewing and interacting with reports on the go.	Designed for viewing and monitoring reports on smartphones or tablets.
