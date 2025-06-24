@@ -5,3 +5,6 @@
  
  # Week 1
  ## just check the day 3 question
+
+ # Week 2
+ ## Check with every code and more  focus on day 12
