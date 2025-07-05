@@ -1,3 +1,5 @@
+package week2;
+
 class Solution {
     static int minJumps(int[] arr) {
         // code here

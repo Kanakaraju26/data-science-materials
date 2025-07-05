@@ -1,4 +1,4 @@
-// User function Template for Java
+package week3;
 
 class Solution {
     // Function to count inversions in the array.

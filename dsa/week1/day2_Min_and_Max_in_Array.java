@@ -1,3 +1,5 @@
+package week1;
+
 class Solution {
     public void getMinMax(int[] arr) {
         // Code Here

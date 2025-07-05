@@ -1,3 +1,5 @@
+package week2;
+
 class Solution {
     public int findDuplicate(int[] nums) {
         int slow = nums[0];

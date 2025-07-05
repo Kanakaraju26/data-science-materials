@@ -1,3 +1,5 @@
+package week1;
+
 class Solution {
     public void sort012(int[] arr) {
         // code here

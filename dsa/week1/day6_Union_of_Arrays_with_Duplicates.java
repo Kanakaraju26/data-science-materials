@@ -1,3 +1,5 @@
+package week1;
+
 import java.util.*;
 class Solution {
     public static int findUnion(int a[], int b[]) {

@@ -1,3 +1,5 @@
+package week2;
+
 class Solution {
     // Function to merge the arrays.
     public void mergeArrays(int a[], int b[]) {

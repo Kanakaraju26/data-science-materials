@@ -1,3 +1,5 @@
+package week3;
+
 class Solution {
     public int maxProfit(int[] prices) {
         int n = prices[0];

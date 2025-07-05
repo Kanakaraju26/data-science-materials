@@ -1,3 +1,5 @@
+package week2;
+
 public class day13_Print_All_Subarrays {
 
     public static void printAllSubarrays(int[] arr) {

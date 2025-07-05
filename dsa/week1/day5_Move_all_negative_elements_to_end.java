@@ -1,3 +1,5 @@
+package week1;
+
 class Solution {
     public void segregateElements(int[] arr) {
         // code here
