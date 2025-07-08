@@ -1,0 +1,47 @@
+Age,Attrition,BusinessTravel,Department,DistanceFromHome,Education,EducationField,EmployeeCount,EmployeeNumber,EnvironmentSatisfaction,Gender,HourlyRate,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,OverTime,PercentSalaryHike,PerformanceRating,StandardHours,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,hierarchy,JobSatificationInText,Over 30
+27,No,Travel_Frequently,Sales,8,3,Life Sciences,1,56,4,Male,37,3,Sales Executive,3,Single,8726,2975,1,No,15,3,80,0,9,0,3,9,8,1,7,Senior,Somewhat Satisfied,No
+26,No,Travel_Rarely,Human Resources,25,1,Life Sciences,1,177,3,Female,61,1,Human Resources,3,Married,2942,8916,1,No,23,4,80,1,8,3,3,8,7,5,7,Analyst,Somewhat Satisfied,No
+30,No,Travel_Rarely,Research & Development,5,3,Technical Degree,1,197,4,Female,84,1,Research Scientist,1,Divorced,3204,10415,5,No,14,3,80,1,8,3,3,3,2,2,2,Analyst,Not Satisfied,No
+30,Yes,Travel_Rarely,Research & Development,3,3,Technical Degree,1,297,4,Female,88,1,Research Scientist,1,Single,2657,8556,5,Yes,11,3,80,0,8,5,3,5,2,0,4,Analyst,Not Satisfied,No
+30,Yes,Travel_Frequently,Sales,26,4,Marketing,1,299,3,Female,52,2,Sales Executive,1,Single,6696,22967,5,No,15,3,80,0,9,5,2,6,3,0,1,Associate,Not Satisfied,No
+26,Yes,Travel_Rarely,Sales,4,4,Marketing,1,401,4,Male,48,2,Sales Executive,4,Single,5828,8450,1,Yes,12,3,80,0,8,0,3,8,7,7,4,Associate,Satisfied,No
+28,No,Travel_Rarely,Research & Development,16,2,Medical,1,412,2,Male,68,2,Healthcare Representative,1,Single,5661,4824,0,No,19,3,80,0,9,2,3,8,3,0,7,Associate,Not Satisfied,No
+27,No,Travel_Rarely,Sales,8,4,Marketing,1,458,2,Female,56,2,Sales Executive,2,Married,6214,3415,1,No,18,3,80,1,8,3,3,8,7,0,7,Associate,Neutral,No
+26,No,Travel_Rarely,Sales,1,3,Life Sciences,1,476,3,Male,57,2,Sales Executive,3,Married,5296,20156,1,No,17,3,80,1,8,3,3,8,7,7,7,Associate,Somewhat Satisfied,No
+30,No,Non-Travel,Research & Development,3,3,Life Sciences,1,562,3,Male,53,1,Laboratory Technician,4,Married,2097,16734,4,No,15,3,80,1,9,3,1,5,3,1,4,Analyst,Satisfied,No
+26,Yes,Travel_Frequently,Human Resources,17,4,Life Sciences,1,608,2,Female,58,1,Human Resources,3,Divorced,2741,22808,0,Yes,11,3,80,1,8,2,2,7,7,1,0,Analyst,Somewhat Satisfied,No
+29,No,Travel_Rarely,Research & Development,19,3,Technical Degree,1,611,4,Male,34,2,Manufacturing Director,4,Divorced,4262,22645,4,No,12,3,80,2,8,2,4,3,2,1,2,Associate,Satisfied,No
+26,No,Travel_Rarely,Sales,29,2,Medical,1,618,1,Male,45,2,Sales Executive,3,Divorced,4306,4267,5,No,12,3,80,2,8,5,3,0,0,0,0,Associate,Somewhat Satisfied,No
+27,No,Travel_Rarely,Research & Development,1,2,Life Sciences,1,725,3,Female,68,3,Manufacturing Director,1,Married,7412,6009,1,No,11,3,80,0,9,3,3,9,7,0,7,Senior,Not Satisfied,No
+27,No,Travel_Frequently,Research & Development,10,2,Life Sciences,1,733,4,Male,32,3,Manufacturing Director,1,Divorced,8793,4809,1,No,21,4,80,2,9,4,2,9,7,1,7,Senior,Not Satisfied,No
+27,No,Travel_Rarely,Research & Development,7,3,Medical,1,764,4,Female,55,2,Healthcare Representative,1,Single,6811,23398,8,No,19,3,80,0,9,2,1,7,6,0,7,Associate,Not Satisfied,No
+27,No,Travel_Rarely,Research & Development,5,1,Technical Degree,1,844,3,Male,42,3,Research Director,4,Divorced,12808,8842,1,Yes,16,3,80,1,9,3,3,9,8,0,8,Senior,Satisfied,No
+28,No,Travel_Rarely,Sales,2,4,Marketing,1,846,2,Female,81,2,Sales Executive,2,Married,4779,3698,1,Yes,20,4,80,0,8,2,3,8,7,7,5,Associate,Neutral,No
+26,Yes,Travel_Frequently,Research & Development,5,2,Medical,1,848,3,Female,88,1,Research Scientist,3,Married,2366,20898,1,Yes,14,3,80,1,8,2,3,8,7,1,7,Analyst,Somewhat Satisfied,No
+29,No,Travel_Rarely,Research & Development,7,1,Medical,1,912,1,Female,62,1,Laboratory Technician,4,Divorced,2532,6054,6,No,14,3,80,3,8,5,3,4,3,0,3,Analyst,Satisfied,No
+30,No,Travel_Rarely,Research & Development,8,2,Life Sciences,1,1015,2,Female,73,3,Research Director,1,Married,11416,17802,0,Yes,12,3,80,3,9,4,2,8,7,1,7,Senior,Not Satisfied,No
+26,No,Travel_Rarely,Research & Development,2,2,Medical,1,1018,4,Male,32,2,Manufacturing Director,4,Married,5472,3334,1,No,12,3,80,0,8,2,3,8,7,1,3,Associate,Satisfied,No
+29,No,Travel_Frequently,Research & Development,10,3,Life Sciences,1,1143,4,Female,61,1,Research Scientist,2,Divorced,3291,17940,0,No,14,3,80,2,8,2,2,7,5,1,1,Analyst,Neutral,No
+26,No,Travel_Rarely,Research & Development,3,4,Medical,1,1177,1,Male,82,1,Laboratory Technician,4,Married,4420,13421,1,No,22,4,80,1,8,2,3,8,7,0,7,Analyst,Satisfied,No
+30,No,Travel_Rarely,Sales,29,4,Life Sciences,1,1211,3,Male,61,2,Sales Executive,1,Divorced,4115,13192,8,No,19,3,80,3,8,3,3,4,3,0,3,Associate,Not Satisfied,No
+27,No,Travel_Rarely,Research & Development,14,3,Life Sciences,1,1244,1,Male,42,1,Research Scientist,1,Married,2235,14377,1,Yes,14,3,80,2,9,3,2,9,7,6,8,Analyst,Not Satisfied,No
+29,No,Travel_Rarely,Research & Development,1,3,Life Sciences,1,1264,4,Female,87,4,Research Director,4,Divorced,16124,3423,3,No,14,3,80,2,9,2,2,7,7,1,7,Supervisor,Satisfied,No
+26,No,Travel_Rarely,Research & Development,4,2,Life Sciences,1,1275,3,Male,53,1,Research Scientist,4,Single,2875,9973,1,Yes,20,4,80,0,8,2,2,8,5,2,2,Analyst,Satisfied,No
+30,No,Travel_Rarely,Research & Development,17,4,Medical,1,1321,2,Female,95,3,Manager,1,Married,11916,25927,1,Yes,23,4,80,2,9,2,3,9,1,0,8,Senior,Not Satisfied,No
+27,No,Travel_Frequently,Sales,2,1,Life Sciences,1,1371,4,Male,43,2,Sales Executive,4,Single,5071,20392,3,No,20,4,80,0,8,3,3,6,2,0,0,Associate,Satisfied,No
+27,Yes,Travel_Rarely,Research & Development,17,4,Life Sciences,1,1405,4,Female,51,1,Research Scientist,3,Single,2394,25681,1,Yes,13,3,80,0,8,2,3,8,2,7,7,Analyst,Somewhat Satisfied,No
+26,No,Travel_Rarely,Research & Development,7,3,Other,1,1417,3,Male,100,1,Laboratory Technician,1,Single,3578,23577,0,No,12,3,80,0,8,2,3,7,7,0,7,Analyst,Not Satisfied,No
+29,Yes,Travel_Frequently,Research & Development,14,1,Other,1,1421,3,Female,84,3,Healthcare Representative,4,Single,7553,22930,0,Yes,12,3,80,0,9,1,3,8,7,7,7,Senior,Satisfied,No
+30,No,Travel_Rarely,Sales,7,4,Marketing,1,1428,4,Female,73,2,Sales Executive,1,Divorced,4779,12761,7,No,14,3,80,2,8,3,3,3,2,0,2,Associate,Not Satisfied,No
+28,Yes,Travel_Frequently,Research & Development,2,2,Medical,1,1504,3,Male,38,1,Laboratory Technician,1,Single,2561,5355,7,No,11,3,80,0,8,2,2,0,0,0,0,Analyst,Not Satisfied,No
+28,No,Travel_Rarely,Research & Development,29,1,Life Sciences,1,1514,3,Male,96,2,Manufacturing Director,2,Married,6549,3173,1,No,14,3,80,2,8,2,2,8,6,1,7,Associate,Neutral,No
+29,No,Travel_Rarely,Research & Development,8,1,Other,1,1544,3,Female,39,2,Healthcare Representative,1,Married,9715,7288,3,No,13,3,80,1,9,3,3,7,7,0,7,Associate,Not Satisfied,No
+30,No,Travel_Rarely,Sales,29,4,Technical Degree,1,1568,3,Male,33,3,Sales Executive,2,Married,9250,17799,3,No,12,3,80,1,9,3,3,4,2,1,3,Senior,Neutral,No
+29,No,Travel_Rarely,Sales,10,3,Medical,1,1650,3,Male,42,2,Sales Executive,3,Single,5869,23413,9,No,11,3,80,0,8,2,3,5,2,1,4,Associate,Somewhat Satisfied,No
+29,No,Travel_Rarely,Research & Development,9,4,Medical,1,1709,4,Female,43,1,Laboratory Technician,3,Married,2974,25412,9,No,17,3,80,1,9,2,3,5,3,1,2,Analyst,Somewhat Satisfied,No
+30,No,Travel_Rarely,Research & Development,10,3,Medical,1,1816,1,Female,64,3,Manufacturing Director,3,Single,9667,2739,9,No,14,3,80,0,9,3,3,7,7,0,2,Senior,Somewhat Satisfied,No
+27,No,Travel_Rarely,Sales,23,1,Medical,1,1864,2,Female,36,2,Sales Representative,3,Married,3540,7018,1,No,21,4,80,1,9,5,3,9,8,5,8,Associate,Somewhat Satisfied,No
+27,No,Travel_Frequently,Research & Development,15,3,Life Sciences,1,1870,4,Female,77,1,Research Scientist,1,Married,4774,23844,0,No,19,3,80,1,8,2,2,7,6,7,3,Analyst,Not Satisfied,No
+27,No,Travel_Rarely,Sales,2,2,Medical,1,1898,1,Female,89,2,Sales Executive,3,Single,6500,26997,0,No,14,3,80,0,9,5,2,8,7,0,7,Associate,Somewhat Satisfied,No
+26,No,Travel_Frequently,Research & Development,6,3,Other,1,1918,3,Male,61,1,Laboratory Technician,4,Married,2544,7102,0,No,18,3,80,1,8,3,3,7,7,7,7,Analyst,Satisfied,No
+26,No,Travel_Rarely,Research & Development,1,3,Medical,1,1952,3,Male,95,1,Laboratory Technician,1,Single,2867,20006,0,No,13,3,80,0,8,6,2,7,7,7,6,Analyst,Not Satisfied,No
