@@ -1,6 +1,6 @@
 package week2;
 
-class Solution {
+public class day8_Kadane_Algorithm {
     int maxSubarraySum(int[] arr) {
         // Your code here
         int maxSoFar = arr[0];

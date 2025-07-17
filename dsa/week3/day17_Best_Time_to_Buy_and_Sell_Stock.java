@@ -1,6 +1,6 @@
 package week3;
 
-class Solution {
+public class day17_Best_Time_to_Buy_and_Sell_Stock {
     public int maxProfit(int[] prices) {
         int n = prices[0];
         int max = 0;

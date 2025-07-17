@@ -1,6 +1,6 @@
 package week1;
 
-class Solution {
+public class day4_Sort_0s_1s_2s {
     public void sort012(int[] arr) {
         // code here
         int ones = 0;

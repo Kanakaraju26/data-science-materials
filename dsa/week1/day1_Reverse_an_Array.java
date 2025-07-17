@@ -1,6 +1,6 @@
 package week1;
 
-class Solution {
+public class day1_Reverse_an_Array {
     public void reverseArray(int arr[]) {
         // code here
         if(arr.length==1) return;

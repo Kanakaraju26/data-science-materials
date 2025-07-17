@@ -1,6 +1,6 @@
 package week1;
 
-class Solution {
+public class day7_Rotate_Array_by_One {
     public void rotate(int[] arr) {
         // code here
         if(arr.length==1) return;

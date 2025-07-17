@@ -1,6 +1,6 @@
 package week3;
 
-class Solution {
+public class day15_Next_Permutation {
     public void nextPermutation(int[] nums) {
          int i = nums.length - 2;
 

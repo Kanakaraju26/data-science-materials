@@ -1,6 +1,6 @@
 package week2;
 
-class Solution {
+public class day11_Find_the_Duplicate_Number {
     public int findDuplicate(int[] nums) {
         int slow = nums[0];
         int fast = nums[0];

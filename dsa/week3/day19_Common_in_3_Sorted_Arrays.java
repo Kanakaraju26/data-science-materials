@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-class Solution {
+public class day19_Common_in_3_Sorted_Arrays {
     // Function to find common elements in three arrays.
     public List<Integer> commonElements(List<Integer> arr1, List<Integer> arr2,
                                         List<Integer> arr3) {

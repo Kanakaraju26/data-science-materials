@@ -3,7 +3,7 @@ package week4;
 import java.util.ArrayList;
 import java.util.Collections;
 
-class Solution {
+public class day22_Factorials_of_large_numbers {
     public static ArrayList<Integer> factorial(int n) {
         ArrayList<Integer> res = new ArrayList<>();
         res.add(1); // Start with 1

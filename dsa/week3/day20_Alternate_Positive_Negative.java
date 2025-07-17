@@ -2,7 +2,7 @@ package week3;
 
 import java.util.ArrayList;
 
-class Solution {
+public class day20_Alternate_Positive_Negative {
     void rearrange(ArrayList<Integer> arr) {
         // code here
         ArrayList<Integer> pos = new ArrayList<>();

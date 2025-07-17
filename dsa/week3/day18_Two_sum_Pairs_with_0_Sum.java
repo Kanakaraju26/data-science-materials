@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 
-class Solution {
+public class day18_Two_sum_Pairs_with_0_Sum {
     public static ArrayList<ArrayList<Integer>> getPairs(int[] arr) {
         // code here
         Set<String> seenPairs = new HashSet<>();

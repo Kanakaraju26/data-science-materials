@@ -1,6 +1,6 @@
 package week2;
 
-class Solution {
+public class day10_Minimum_Jumps {
     static int minJumps(int[] arr) {
         // code here
         for(int i = 1; i < arr.length;i++){

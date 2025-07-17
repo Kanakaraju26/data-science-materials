@@ -2,7 +2,7 @@ package week3;
 
 import java.util.HashSet;
 
-class Solution {
+public class day21_Subarray_with_0_sum {
     // Function to check whether there is a subarray present with 0-sum or not.
     static boolean findsum(int arr[]) {
         // Your code here

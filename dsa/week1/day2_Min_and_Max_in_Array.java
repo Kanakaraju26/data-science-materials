@@ -1,6 +1,5 @@
 package week1;
-
-class Solution {
+public class day2_Min_and_Max_in_Array {
     public void getMinMax(int[] arr) {
         // Code Here
         int min = Integer.MAX_VALUE;
@@ -20,5 +19,5 @@ class Solution {
         return;
     }
 
-    
 }
+

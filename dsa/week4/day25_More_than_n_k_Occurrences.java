@@ -3,7 +3,7 @@ package week4;
 import java.util.HashMap;
 import java.util.Map;
 
-class Solution {
+public class day25_More_than_n_k_Occurrences {
     // Function to find all elements in array that appear more than n/k times.
     public int countOccurence(int[] arr, int k) {
         // your code here,return the answer

@@ -1,6 +1,6 @@
 package week1;
 
-class Solution {
+public class day5_Move_all_negative_elements_to_end {
     public void segregateElements(int[] arr) {
         // code here
         int posCount = 0, negCount = 0;

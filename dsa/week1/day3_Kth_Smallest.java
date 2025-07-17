@@ -2,7 +2,7 @@ package week1;
 
 import java.util.PriorityQueue;
 
-class Solution {
+public class day3_Kth_Smallest {
     public static int kthSmallest(int[] arr, int k) {
         // code here
         PriorityQueue<Integer> minHeap = new PriorityQueue<>();

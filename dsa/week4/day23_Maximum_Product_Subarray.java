@@ -1,6 +1,6 @@
 package week4;
 
-class Solution {
+public class day23_Maximum_Product_Subarray {
     int maxProduct(int[] arr) {
         // code here
        if (arr == null || arr.length == 0) return 0;

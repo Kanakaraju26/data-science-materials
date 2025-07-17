@@ -2,7 +2,7 @@ package week2;
 
 import java.util.Arrays;
 
-class Solution {
+public class day9_Minimize_the_Heights_II {
     int getMinDiff(int[] arr, int k) {
         // code here
         int n = arr.length;

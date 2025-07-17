@@ -1,6 +1,6 @@
 package week3;
 
-class Solution {
+public class day16_Count_Inversions {
     // Function to count inversions in the array.
     static int inversionCount(int arr[]) {
         int[] temp = new int[arr.length];

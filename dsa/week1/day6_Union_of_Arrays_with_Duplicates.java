@@ -1,7 +1,7 @@
 package week1;
 
 import java.util.*;
-class Solution {
+public class day6_Union_of_Arrays_with_Duplicates {
     public static int findUnion(int a[], int b[]) {
         // code here
         Set<Integer> s = new HashSet<>();

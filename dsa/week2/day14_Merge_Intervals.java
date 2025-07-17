@@ -2,7 +2,7 @@ package week2;
 
 import java.util.*;
 
-class Solution {
+public class day14_Merge_Intervals {
     public int[][] merge(int[][] intervals) {
          if (intervals.length == 0) {
             return new int[0][];

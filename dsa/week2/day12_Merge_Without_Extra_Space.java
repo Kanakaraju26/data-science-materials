@@ -1,6 +1,6 @@
 package week2;
 
-class Solution {
+public class day12_Merge_Without_Extra_Space {
     // Function to merge the arrays.
     public void mergeArrays(int a[], int b[]) {
         // code here

@@ -2,8 +2,7 @@ package week4;
 
 import java.util.TreeSet;
 
-class Solution {
-
+public class day24_Longest_Consecutive_Subsequence {
     // Function to return length of longest subsequence of consecutive integers.
     public int longestConsecutive(int[] arr) {
         // code here
